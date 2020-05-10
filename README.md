@@ -1,2 +1,2 @@
-# JS
+# JS JAVASCRIPT
  first in desktop
